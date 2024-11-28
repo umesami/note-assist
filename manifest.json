@@ -1,0 +1,11 @@
+{
+    "manifest_version": 3,
+    "name": "Note-Assist",
+    "version": "1.0",
+    "description": "Captures live audio to send to backend for transcription",
+    "permissions": ["microphone"],
+    "action": {
+        "default_popup": "index.html"
+    }
+
+}
